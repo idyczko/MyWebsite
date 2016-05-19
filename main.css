@@ -1,0 +1,10 @@
+body{
+	background-image: url(bg-top_v3.gif);
+}
+div{
+	    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    color: #fff;
+    line-height: 1.2em;
+	background-image: linear-gradient(120deg, #3f8daa 0%, #225781 100%);
+}
